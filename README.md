@@ -17,7 +17,7 @@ No final desses dois anos, uma retrospectiva foi feita e Pat utilizou um esquema
 Por fim, os resultados do Scrum foram sentidos de quatro maneiras na empresa: no tempo de ciclo reduzido, melhor desempenho no planejamento, aumento do moral dos funcionários e no aumento da transparência. A palavra de sucesso da equipe se espalhou por toda a empresa e grandes progressos foram feitos para mudar a organização, de uma organização baseada em planos e comandos para uma organização baseada em planejamento empírico, de inspeção e adaptação e auto-organizada.
 
 
-A partir deste relato, podemos entender porque foi utilizada uma abordagem ágil e não a tradicional, visto que o modelo cascata vinha sido utilizado ao longo dos anos na empresa, mas acabava por acarretar sobrecarga às equipes finais nos processos e frustração aos funcionários dessa equipe.
+A partir deste relato, podemos entender porque foi utilizada uma abordagem ágil e não a tradicional, visto que o modelo cascata vinha sido utilizado ao longo dos anos na empresa, mas acabava por acarretar sobrecarga às equipes finais nos processos e frustração aos funcionários dessas equipes.
 
 Visto que, no modelo cascata, um processo só pode ser iniciado depois que o outro termina, as equipes ficam totalmente isoladas umas das outras, cada uma trabalhando no que deve fazer quando chega sua vez de executar o projeto. O cliente, por sua vez, só tem contato com o que foi feito no final da entrega do produto, não tendo contato com o que está sendo desenvolvido.
 
